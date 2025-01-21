@@ -1,2 +1,2 @@
-rootProject.name = 'jspProject'
+rootProject.name = 'jsp-project-tutorial-2025'
 include 'chapter03','chapter04','chapter07'
