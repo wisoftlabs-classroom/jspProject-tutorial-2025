@@ -22,18 +22,18 @@
 
 ## 스터디 일정
 
-| **주차** | **학습 내용**                                                                                          |
-|---------|-----------------------------------------------------------------------------------------------------|
-| 1주차    | Chapter 1 JSP 입문<br>Chapter 3 Servlet의 핵심 사항들<br>Chapter 2 개발 환경 설정                     |
-| 2주차    | Chapter 4 JSP 기본 요소                                                                              |
-| 3주차    | Chapter 5 내장 객체와 액션 태그<br>Chapter 6 템플릿 페이지 작성                                       |
-| 4주차    | Chapter 7 자바빈(JavaBean)                                                                          |
-| 5주차    | Chapter 8 세션(Session)과 쿠키(Cookie)<br>Chapter 9 예외 처리                                        |
-| 6주차    | Chapter 10 파일 업로드<br>Chapter 11 이미지 삽입<br>Chapter 12 JavaMail                              |
-| 7주차    | Chapter 13 데이터베이스를 이용한 회원 관리 시스템                                                     |
-| 8주차    | Chapter 14 JSTL(JSP Standard Tag Library)와 EL(Expression Language)                                 |
-| 9주차    | Chapter 15 Model 2로 만드는 게시판 프로젝트                                                          |
-| 10주차   | Chapter 16 Model 2 예제들                                                                           |
+| **주차** | **학습 내용**                                                                                                            |
+|---------|----------------------------------------------------------------------------------------------------------------------|
+| 1주차    | Chapter 1 JSP 입문<br>Chapter 3 Servlet의 핵심 사항들<br>Chapter 2 개발 환경 설정                                                  |
+| 2주차    | Chapter 4 JSP 기본 요소                                                                                                  |
+| 3주차    | Chapter 5 내장 객체와 액션 태그<br>Chapter 6 템플릿 페이지 작성                                                                       |
+| 4주차    | Chapter 7 자바빈(JavaBean)                                                                                              |
+| 5주차    | Chapter 8 세션(Session)과 쿠키(Cookie)<br>Chapter 9 예외 처리<br>Chapter 10 파일 업로드<br>Chapter 11 이미지 삽입<br>Chapter 12 JavaMail |
+| 6주차    | Chapter 13 데이터베이스를 이용한 회원 관리 시스템-1                                                                                   |
+| 7주차    | Chapter 13 데이터베이스를 이용한 회원 관리 시스템-2<br>Chapter 14 JSTL(JSP Standard Tag Library)와 EL(Expression Language)-1           |
+| 8주차    | Chapter 14 JSTL(JSP Standard Tag Library)와 EL(Expression Language)-2<br>Chapter 15 Model 2로 만드는 게시판 프로젝트             |
+| 9주차    | Chapter 16 Model 2 예제들-1                                                                                             |
+| 10주차   | Chapter 16 Model 2 예제들-2                                                                                             |
 
 ---
 
